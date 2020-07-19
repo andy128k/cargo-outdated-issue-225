@@ -1,0 +1,7 @@
+[package]
+name = "test_aw"
+version = "0.0.1"
+edition = "2018"
+
+[dependencies]
+actix-web = "3.0.0-alpha.1"
